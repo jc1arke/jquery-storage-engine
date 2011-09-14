@@ -7,5 +7,5 @@ Overview
 * Examples
 * How-to implement
 
-Introduction(#introduction)
+Introduction[Introduction]
 ------------
